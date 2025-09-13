@@ -1,1 +1,1 @@
-user : valeasy password : 1234
+valeasy 1234
